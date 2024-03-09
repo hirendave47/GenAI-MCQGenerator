@@ -1,0 +1,1 @@
+[2024-03-09 18:30:01,404] 1026 httpx - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"

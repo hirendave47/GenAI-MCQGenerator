@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 1.0.0
+Summary: Generate MCQs for a given question
+Home-page: https://github.com/HirenDave/mcqgenerator
+Author: Hiren Dave
+Author-email: hirendave47@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
